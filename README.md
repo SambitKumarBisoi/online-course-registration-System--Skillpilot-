@@ -153,6 +153,6 @@ Sambit Kumar Bisoi
 
 🔗 LinkedIn: https://www.linkedin.com/in/sambit-kumar-bisoi-34b735275
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/SambitKumarBisoi
 
 📧 Email: sambitkumarbisoi02@gmail.com
